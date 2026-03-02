@@ -13,7 +13,7 @@ This project uses an LDR (Light Dependent Resistor) to detect light levels and c
 - Breadboard
 
 ## Circuit Diagram
-![Circuit](images/LDR_circuit.jpg)
+![LDR Circuit](images/ldr_circuit.jpg)
 
 ## How to Use
 1. Upload `LDR.ino` to your Arduino board.
