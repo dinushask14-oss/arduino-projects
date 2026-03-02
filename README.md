@@ -8,6 +8,7 @@ This project uses an LDR (Light Dependent Resistor) to detect light levels and c
 - LDR Sensor
 - LED
 - 220Ω Resistor
+- 10kΩ Resistor
 - Jumper wires
 - Breadboard
 
